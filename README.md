@@ -2,8 +2,8 @@
 
 ## About Me
 - Golang/Objective-C/C/Swift(都想学)
-- Working at
-    - [DBappSecurity](https://www.dbappsecurity.com.cn/)
+- Working at [DBappSecurity](https://www.dbappsecurity.com.cn/)
+- Todo
     - [巴斯的iOS安全学习记录](https://ios.macoder.tech)
     - [巴斯的macOS安全学习记录](https://red.macoder.tech)
 
