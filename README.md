@@ -6,6 +6,6 @@
 
 ### 📈 Reputation
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ac0d3r&layout=donut&hide=html,yara,css" width=37% style="float: left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ac0d3r&layout=donut&hide=html,yara,css" width=30% style="float: left">
   <img src="https://github-readme-stats.vercel.app/api?username=ac0d3r&show_icons=true&theme=onedark" width=45%>
 </div>
