@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 - 📖 blog: [blog.imipy.com](https://blog.imipy.com)
-- 💻 studio: [studio.imipy.com](https://studio.imipy.com)
-- 📱iOS安全笔记: [blog.imipy.com/ios](https://blog.imipy.com/ios)
 - 🤔 微信公众号: **凹陷外壳**
 
 <img src="https://github.com/ac0d3r/ac0d3r/assets/26270009/48c48d98-d7c9-451a-ad0f-1ac776b9de93" width=30%>
