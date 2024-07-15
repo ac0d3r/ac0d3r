@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://github.com/user-attachments/assets/2941be7e-5702-43b3-9dda-b32fb6f089ba" width=19%>
+
 - 📖 blog: [blog.imipy.com](https://blog.imipy.com)
 - 🤔 微信公众号: **凹陷外壳**
 
