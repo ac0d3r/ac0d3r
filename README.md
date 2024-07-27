@@ -3,7 +3,7 @@
 <img src="https://github.com/user-attachments/assets/2941be7e-5702-43b3-9dda-b32fb6f089ba" width=19%>
 
 - 📖 Blog: [blog.imipy.com](https://blog.imipy.com)
-- 🚧 Lab: [**@BreakOnCash**](https://github.com/BreakOnCrash)
+- 📱 Lab: [**@BreakOnCash**](https://github.com/BreakOnCrash)
 
 
 ### 📈 Reputation
